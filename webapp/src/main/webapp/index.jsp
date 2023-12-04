@@ -9,7 +9,7 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps 2nd Project  </h1>
-<h1 style="color:blue;"> Version: 1.27 - </h1>
+<h1 style="color:blue;"> Version: 1.27 this is a test- </h1>
 </body>
 </html>
 
